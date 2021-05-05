@@ -1,0 +1,82 @@
+.title {
+    font-family: candara;
+    color: #5B2C6F;
+    text-align:center;
+  }
+  
+  .title2 {
+    font-family: calibri;
+    color: #2471A3;
+    text-align:center;
+  }
+  
+  .img1 {
+      float: left;
+      width: 100px;
+      height: 100px;
+      margin: 1px;
+      border-radius: 25px;
+      position: absolute;
+      left: 10px;
+  }
+  
+  body{
+    background-color: #FADBD8;
+  }
+  
+  *{
+    font-family: arial; 
+  }
+  
+  .pharagraph{
+    color: #154360;
+  }
+  
+  
+   .div0{
+    background: #F5B7B1;
+    height: 140px;
+    width: 1100px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 1px;
+    position: absolute; 
+    left: 250px;
+  }
+  
+   .div1{
+    position: relative;
+    background: #F5B7B1;
+    height: 140px;
+    width: 360px;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 25px;
+    position: absolute;
+    top: 270px;
+    left: 10px;
+  }
+    
+   .div2{
+    background: #F5B7B1;
+    height: 140px;
+    width: 450px;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 25px;
+    position: absolute; 
+    top: 270px;
+    left: 450px;
+  }
+  
+   .div3{
+    background: #F5B7B1;
+    height: 140px;
+    width: 250px;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 25px;
+    position: absolute; 
+    top: 270px;
+    left: 980px;
+  }
